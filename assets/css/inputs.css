@@ -1,0 +1,20 @@
+.form-control {
+    border: none;
+    color: var(--bg-marrom-1);
+    background-color: var(--bg-marrom-2);
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.form-select {
+    border: none;
+    color: var(--bg-marrom-1);
+    background-color: var(--bg-marrom-2);
+    font-weight: 400;
+    font-size: 16px;
+}
+.form-select:hover,
+.form-select:hover option {
+    background-color: var(--bg-orange);
+    color: black;
+}
